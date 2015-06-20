@@ -301,7 +301,7 @@ function initialize(){
     //define map
     var map;
     //lat lng
-    myLatlng = new google.maps.LatLng(16.8496189,96.1288854);
+    myLatlng = new google.maps.LatLng(-94.5327778,38.8858333);
     //define style
     var styles = [
         {
